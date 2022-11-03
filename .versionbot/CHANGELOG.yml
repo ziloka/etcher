@@ -1,4 +1,15 @@
 - commits:
+    - subject: Switch to Flowzone
+      hash: 684e87436d28000c57dd9bb45704675f736238d0
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: ab77
+      nested: []
+  version: 1.7.10
+  date: 2022-11-03T21:00:36.829Z
+- commits:
     - subject: "patch: update allowed extensions to include deb afterinstall in build"
       hash: 61610ded842caba47c6a682afcb08aa0fda4e86b
       body: ""
